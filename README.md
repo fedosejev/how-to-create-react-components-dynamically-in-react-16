@@ -1,6 +1,6 @@
 # How To Create React Components Dynamically In React 16
 
-+ Read explanations in React 16 Tips book.
++ Read tutorial in React 16 Tips book.
 + See it in action: https://fedosejev.github.io/how-to-create-react-components-dynamically-in-react-16/
 
 ## Install
