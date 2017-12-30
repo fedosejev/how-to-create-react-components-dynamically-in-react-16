@@ -13,12 +13,14 @@ This project is created with [Create React App](https://github.com/facebookincub
 
 `npm start`
 
-## Learn More
+## Learn more
 
 1. Get the latest React tips and tricks - join our mailing list.
 2. Ask React questions in our Facebook group.
 
-## Connect with the Author
+## Connect with the author
 
-1. Connect with [Artemij Fedosejev](http://artemij.com) on [LinkedIn](https://www.linkedin.com/in/artemij/).
-2. [Email](react16tipsbook@gmail.com) Artemij Fedosejev your feedback and ideas.
+Created by [Artemij (Art) Fedosejev](http://artemij.com).
+
+1. Connect with Art on [LinkedIn](https://www.linkedin.com/in/artemij/).
+2. [Email](react16tipsbook@gmail.com) Art your feedback and ideas.
