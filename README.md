@@ -23,4 +23,4 @@ This project is created with [Create React App](https://github.com/facebookincub
 Created by [Artemij (Art) Fedosejev](http://artemij.com).
 
 1. Connect with Artemij on [LinkedIn](https://www.linkedin.com/in/artemij/).
-2. [Email](react16tipsbook@gmail.com) Artemij your feedback and ideas.
+2. [Email](mailto:react16tipsbook@gmail.com) Artemij your feedback and ideas.
